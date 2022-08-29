@@ -35,7 +35,8 @@ The following tools will be used in building the project:
 
 # Demonstration
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/45051690/170385588-94d36594-6ae6-4b0d-b168-f507bca3fb21.gif)
+![2022-08-28 22-58-38](https://user-images.githubusercontent.com/45051690/187108428-68240324-356a-4e9d-b8e0-4f7918bf2923.gif)
+
 
  <br/>
  <br/>
